@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ktrantech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ktrantech/ostick-lifecycle-example)
 - <b>Microsoft Azure</b>
-  - [Resource Group & Storage Account Creation in Azure](https://github.com/ktrantech/azure-intro)
-  - [Creating Virtual Machines for Windows and Linux](https://github.com/ktrantech/creating-vm)
+  - [Resource Group & Storage Account Configuration in Azure](https://github.com/ktrantech/azure-intro)
+  - [Configuring Virtual Machines for Windows and Linux](https://github.com/ktrantech/creating-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ktrantech/config-ad)
  
 
