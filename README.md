@@ -17,7 +17,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/doodle/36/000000/linkedin--v2.png"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/nolan/36/github.png"/>][github]
 
-[github]: https://github.com/kathleentrann
+[github]: https://https://github.com/ktrantech/ktrantech
 [linkedin]: https://www.linkedin.com/in/kenny-tran-careers/
 
 
