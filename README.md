@@ -14,6 +14,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-
+[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/doodle/36/000000/linkedin--v2.png"/>][linkedin]
+[<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/nolan/36/github.png"/>][github]
 
 
