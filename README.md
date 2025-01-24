@@ -18,6 +18,6 @@
 [<img align="left" alt="codeSTACKr | Github"  src="https://img.icons8.com/nolan/36/github.png"/>][github]
 
 [github]: https://github.com/kathleentrann
-[linkedin]: https://www.linkedin.com/in/kathleentrann/
+[linkedin]: https://www.linkedin.com/in/kenny-tran-careers/
 
 
