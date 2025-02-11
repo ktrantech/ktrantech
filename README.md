@@ -15,7 +15,7 @@
 
 <h2>🔐🛜 Network Security Enhancements:</h2>
 
-- <b>Tails OS (Digital Security Operating System)</b>
+- <b>Linux Tails OS (Digital Security Operating System)</b>
   - [Linux Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
   - [Linux Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
   - [Linux Tails OS: Testing your Wi-Fi](https://github.com/ktrantech/Wifi-testing)
