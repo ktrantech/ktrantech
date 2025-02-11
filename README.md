@@ -18,7 +18,7 @@
 - <b>Tails OS (Digital Security Operating System)</b>
   - [Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
   - [Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
-  - [Tails OS: Ticket Lifecycle Examples](https://github.com/ktrantech/ostick-lifecycle-example)
+  - [Tails OS: Testing your Wi-fi](https://github.com/ktrantech/ostick-lifecycle-example)
 
 
  
