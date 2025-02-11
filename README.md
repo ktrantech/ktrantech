@@ -14,6 +14,7 @@
  
 
 <h2>🔐🛜 Tails OS - Network Security Enhancements:</h2>
+
 - <b>Tails OS (Digital Security Operating System)</b>
   - [Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
   - [Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
