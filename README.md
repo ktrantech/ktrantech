@@ -13,6 +13,11 @@
   - [Network File Shares and Permissions](https://github.com/ktrantech/network-file-shares-permissions)
  
 
+<h2>🔐🛜 Tails OS - Network Security Enhancements:</h2>
+
+
+ 
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/doodle/36/000000/linkedin--v2.png"/>][linkedin]
