@@ -10,7 +10,7 @@
   - [Resource Group & Storage Account Configuration in Azure](https://github.com/ktrantech/azure-intro)
   - [Configuring Virtual Machines for Windows and Linux](https://github.com/ktrantech/creating-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ktrantech/config-ad)
-  - [Network File Shares and Permissions](github.com/ktrantech/network-file-shares-permissions)
+  - [Network File Shares and Permissions](https://github.com/ktrantech/network-file-shares-permissions)
  
 
 <h2>🤳Connect with me:</h2>
