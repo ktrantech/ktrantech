@@ -14,7 +14,8 @@
  
 
 <h2>🔐🛜 Tails OS - Network Security Enhancements:</h2>
-
+- [Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
+- [Tails OS: 
 
  
 
