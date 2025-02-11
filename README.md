@@ -13,12 +13,12 @@
   - [Network File Shares and Permissions](https://github.com/ktrantech/network-file-shares-permissions)
  
 
-<h2>🔐🛜 Tails OS - Network Security Enhancements:</h2>
+<h2>🔐🛜 Network Security Enhancements:</h2>
 
 - <b>Tails OS (Digital Security Operating System)</b>
-  - [Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
-  - [Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
-  - [Tails OS: Testing your Wi-Fi](https://github.com/ktrantech/ostick-lifecycle-example)
+  - [Linux Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
+  - [Linux Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
+  - [Linux Tails OS: Testing your Wi-Fi](https://github.com/ktrantech/ostick-lifecycle-example)
 
 
  
