@@ -13,7 +13,7 @@
   - [Network File Shares and Permissions](https://github.com/ktrantech/network-file-shares-permissions)
  
 
-<h2>🔐🛜 Network Security Enhancements:</h2>
+<h2>🔐🛜 Cyber Security Projects:</h2>
 
 - <b>Linux Tails OS (Digital Security Operating System)</b>
   - [Linux Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
