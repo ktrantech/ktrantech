@@ -1,4 +1,16 @@
-<h1>Hi, I'm Kenny, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
+<h1>Hi, I'm Kenny, an <a href="https://linkedin.com/in/kenny-tran-careers/">IT Professional</a></h1>
+
+<h2>🔐🛜 Cyber Security Projects:</h2>
+
+- <b>Governance, Risk and Compliance (GRC) Capstone Project</b>
+  -  [Design Enterprise Cybersecurity Assessment Using NIST CSF 2.0](https://github.com/ktrantech/GRC)
+
+
+- <b>Linux Tails OS (Digital Security Operating System)</b>
+  - [Linux Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
+  - [Linux Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
+  - [Linux Tails OS: Testing your Wi-Fi](https://github.com/ktrantech/Wifi-testing)
+
 
 <h2>📶🖥️ Cloud/Network Projects:</h2>
 
@@ -12,13 +24,6 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ktrantech/config-ad)
   - [Network File Shares and Permissions](https://github.com/ktrantech/network-file-shares-permissions)
  
-
-<h2>🔐🛜 Cyber Security Projects:</h2>
-
-- <b>Linux Tails OS (Digital Security Operating System)</b>
-  - [Linux Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
-  - [Linux Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
-  - [Linux Tails OS: Testing your Wi-Fi](https://github.com/ktrantech/Wifi-testing)
 
 
  
