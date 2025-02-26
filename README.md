@@ -5,7 +5,6 @@
 - <b>Governance, Risk and Compliance (GRC) Capstone Project</b>
   -  [Design Enterprise Cybersecurity Assessment Using NIST CSF 2.0](https://github.com/ktrantech/GRC)
 
-
 - <b>Linux Tails OS (Digital Security Operating System)</b>
   - [Linux Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
   - [Linux Tails OS: Opening Tails on your Flash Drive](https://github.com/ktrantech/post-install-config)
@@ -15,6 +14,7 @@
 <h2>📶🖥️ Cloud/Network Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+
   - [osTicket: Prerequisites and Installation](https://github.com/ktrantech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ktrantech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ktrantech/ostick-lifecycle-example)
