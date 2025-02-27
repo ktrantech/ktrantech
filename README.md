@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kenny, an <a href="https://linkedin.com/in/kenny-tran-careers/">IT Professional</a></h1>
+<h1>Hi, I'm Kenny, an <a href="https://linkedin.com/in/kenny-tran-careers/">Cyber Security Expert</a></h1>
 
 <h2>🔐🛜 Cyber Security Projects:</h2>
 
