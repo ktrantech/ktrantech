@@ -4,6 +4,11 @@
 
 - <b>Governance, Risk and Compliance (GRC) Capstone Project</b>
   -  [Design Enterprise Cybersecurity Assessment Using NIST CSF 2.0](https://github.com/ktrantech/GRC)
+ 
+- <b>Mastercard Cybersecurity Virtual Labatory</b>
+  -  [Draft a Phishing Email Simulation for Mastercard](https://github.com/ktrantech/phish-email-simulation/tree/main)
+  -  [Design a Phishing Prevention Training for affected Teams](https://github.com/ktrantech/design-phish-training)
+
 
 - <b>Linux Tails OS (Digital Security Operating System)</b>
   - [Linux Tails OS: Pre-Install Configuration](https://github.com/ktrantech/tails-os)
