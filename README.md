@@ -3,7 +3,7 @@
 <h2>🔐🛜 Cyber Security Projects:</h2>
 
 - <b>Governance, Risk and Compliance (GRC) Capstone Project</b>
-  -  [Design Enterprise Cybersecurity Assessment Using NIST CSF 2.0](https://github.com/ktrantech/GRC)
+  -  [Design Enterprise Cybersecurity Assessment Using NIST](https://github.com/ktrantech/GRC)
  
 - <b>Mastercard Cybersecurity Virtual Labatory</b>
   -  [Draft a Phishing Email Simulation for Mastercard](https://github.com/ktrantech/phish-email-simulation/tree/main)
